@@ -5,6 +5,13 @@ Power BI project showcasing finance, sales, marketing, and supply chain analytic
 **Business Insights 360** is an end-to-end **Power BI dashboard** developed for **AtliQ Hardware** to enable data-driven decision-making across core business functions.
 
 The dashboard provides a unified view of key metrics from **Finance, Sales, Marketing, and Supply Chain**, helping stakeholders monitor performance, identify trends, and make informed strategic decisions.
+## 🧩 Business Problem
+ The Challenge: AtliQ faced a major setback in Latin America, prompting a need for data-driven decisions.
+They needed a centralized analytics solution to track performance across multiple business functions.
+Decision-makers were relying on fragmented reports, making it difficult to compare performance, identify risks,
+and take timely actions. As an aspiring data analyst, I took charge of transforming their data landscape and steering them towards success.
+
+This dashboard solves that problem by providing a single source of truth for cross-functional insights.
 
 ### 🔍 Key Highlights
 - Interactive and user-friendly Power BI dashboards
@@ -92,6 +99,18 @@ The **Executive View** provides a high-level snapshot of overall business perfor
 It consolidates key KPIs from Finance, Sales, Marketing, and Supply Chain to support quick, strategic decision-making.
 
 <img width="1624" height="902" alt="image" src="https://github.com/user-attachments/assets/f5fa3320-c059-4c94-a343-e8c2554322f1" />
+
+## Data Model View
+<img width="861" height="725" alt="image" src="https://github.com/user-attachments/assets/ddcb0331-c6fd-4fa6-adeb-8db8dfc00bd9" />
+
+## 📘 Learnings
+- Designing dashboards with a business-first approach
+- Writing optimized DAX measures for KPIs
+- Building scalable data models
+- Validating data before visualization
+- Translating business requirements into insights
+## Sharing my LinkedIn profile below for feedback.
+<a href = "https://www.linkedin.com/in/keshavasharma27/"> Click here to see my Linkedin Profile. </a>
 
 
 
