@@ -69,25 +69,29 @@ Interactive filters allow users to drill down by **year, region, category, produ
 The **Marketing View** analyzes market and regional performance using **Net Sales, Gross Margin %, and Net Profit %**.  
 It helps identify profitable and underperforming markets through comparative analysis and benchmark tracking.
 
-![Marketing View](images/Marketing_View.png)
+<img width="1599" height="894" alt="image" src="https://github.com/user-attachments/assets/edfb8437-45b9-4f90-8d73-9d578f66ce55" />
+
 ## 🛒 Sales View
 
 The **Sales View** focuses on **product and customer performance**, highlighting Net Sales and Gross Margin trends.  
 It enables comparison across regions and helps identify high-performing and low-performing products and customers.
 
-![Sales View](images/Sales_View.png)
+<img width="1621" height="900" alt="image" src="https://github.com/user-attachments/assets/b7d032f3-3772-4ef1-8a3c-cb054cbca1aa" />
+
 ## 🚚 Supply Chain View
 
 The **Supply Chain View** monitors operational efficiency using **Forecast Accuracy %, Net Error, and Absolute Error**.  
 It supports demand planning by tracking customer- and product-level risks and forecast deviations over time.
 
-![Supply Chain View](images/Supply_Chain_View.png)
+<img width="1605" height="904" alt="image" src="https://github.com/user-attachments/assets/7feef696-1a7d-494c-84f2-3e0edfeb5209" />
+
 ## 🧠 Executive View
 
 The **Executive View** provides a high-level snapshot of overall business performance.  
 It consolidates key KPIs from Finance, Sales, Marketing, and Supply Chain to support quick, strategic decision-making.
 
-![Executive View](images/Executive_View.png)
+<img width="1624" height="902" alt="image" src="https://github.com/user-attachments/assets/f5fa3320-c059-4c94-a343-e8c2554322f1" />
+
 
 
 
