@@ -22,3 +22,5 @@ The dashboard provides a unified view of key metrics from **Finance, Sales, Mark
 - Data Modeling & Visualization
 
 This repository contains the complete project files, dashboard screenshots, and documentation.
+### Live Dashboard
+<a href = "https://app.powerbi.com/view?r=eyJrIjoiZTgzMGRkYjgtMjQ3NC00YTM0LWJiZDAtYTMzYTUzODM4OGUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Click here to see Live Dashboard</a>
