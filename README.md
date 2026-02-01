@@ -18,6 +18,7 @@ The dashboard provides a unified view of key metrics from **Finance, Sales, Mark
 - DAX
 - SQL
 - Excel
+- DAX Studio
 - Data Modeling & Visualization
 
 This repository contains the complete project files, dashboard screenshots, and documentation.
