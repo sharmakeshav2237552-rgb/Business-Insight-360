@@ -64,6 +64,7 @@ It highlights key metrics like **Net Sales, Gross Margin %, Net Profit %, COGS, 
 Interactive filters allow users to drill down by **year, region, category, product, and customer** for quick financial insights.
 
 <img width="1601" height="900" alt="image" src="https://github.com/user-attachments/assets/3e6d70d2-d252-4558-8c04-a6362fdb5f2a" />
+
 ## 📣 Marketing View
 
 The **Marketing View** analyzes market and regional performance using **Net Sales, Gross Margin %, and Net Profit %**.  
