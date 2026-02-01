@@ -55,3 +55,16 @@ The **Home View** acts as the central navigation hub of the *Business Insights 3
 
 
 > *Note: All values are represented in USD (Millions).*
+> ## 💰 Finance View
+
+The **Finance View** provides a detailed analysis of the business **Profit & Loss statement**, helping track financial performance across time, regions, and products.
+
+It highlights key metrics like **Net Sales, Gross Margin %, Net Profit %, COGS, and Operating Expenses**, along with trend analysis and benchmark comparisons (vs LY / vs Target).
+
+Interactive filters allow users to drill down by **year, region, category, product, and customer** for quick financial insights.
+
+<img width="1601" height="900" alt="image" src="https://github.com/user-attachments/assets/3e6d70d2-d252-4558-8c04-a6362fdb5f2a" />
+
+
+
+
