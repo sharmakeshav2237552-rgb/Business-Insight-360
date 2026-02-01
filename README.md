@@ -64,6 +64,32 @@ It highlights key metrics like **Net Sales, Gross Margin %, Net Profit %, COGS, 
 Interactive filters allow users to drill down by **year, region, category, product, and customer** for quick financial insights.
 
 <img width="1601" height="900" alt="image" src="https://github.com/user-attachments/assets/3e6d70d2-d252-4558-8c04-a6362fdb5f2a" />
+## 📣 Marketing View
+
+The **Marketing View** analyzes market and regional performance using **Net Sales, Gross Margin %, and Net Profit %**.  
+It helps identify profitable and underperforming markets through comparative analysis and benchmark tracking.
+
+![Marketing View](images/Marketing_View.png)
+## 🛒 Sales View
+
+The **Sales View** focuses on **product and customer performance**, highlighting Net Sales and Gross Margin trends.  
+It enables comparison across regions and helps identify high-performing and low-performing products and customers.
+
+![Sales View](images/Sales_View.png)
+## 🚚 Supply Chain View
+
+The **Supply Chain View** monitors operational efficiency using **Forecast Accuracy %, Net Error, and Absolute Error**.  
+It supports demand planning by tracking customer- and product-level risks and forecast deviations over time.
+
+![Supply Chain View](images/Supply_Chain_View.png)
+## 🧠 Executive View
+
+The **Executive View** provides a high-level snapshot of overall business performance.  
+It consolidates key KPIs from Finance, Sales, Marketing, and Supply Chain to support quick, strategic decision-making.
+
+![Executive View](images/Executive_View.png)
+
+
 
 
 
