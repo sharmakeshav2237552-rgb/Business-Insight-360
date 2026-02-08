@@ -1,120 +1,107 @@
-# Business-Insight-360
-Power BI project showcasing finance, sales, marketing, and supply chain analytics
-## 📊 Project Overview
+# 📊 Channel & Profitability Analysis – LATAM Market (AtliQ)
 
-**Business Insights 360** is an end-to-end **Power BI dashboard** developed for **AtliQ Hardware** to enable data-driven decision-making across core business functions.
+🔗 **Live Dashboard:**
+< a href = "https://app.powerbi.com/view?r=eyJrIjoiZGI5YjI4MWQtYWFiYS00MjdiLTlkNjgtY2RlMTIxMjIzZTBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Click here to see Live Dashboard </a>
 
-The dashboard provides a unified view of key metrics from **Finance, Sales, Marketing, and Supply Chain**, helping stakeholders monitor performance, identify trends, and make informed strategic decisions.
-## 🧩 Business Problem
- The Challenge: AtliQ faced a major setback in Latin America, prompting a need for data-driven decisions.
-They needed a centralized analytics solution to track performance across multiple business functions.
-Decision-makers were relying on fragmented reports, making it difficult to compare performance, identify risks,
-and take timely actions. As an aspiring data analyst, I took charge of transforming their data landscape and steering them towards success.
+## 📌 Project Overview
+AtliQ experienced a major performance setback in the Latin America (LATAM) market, with declining sales, missed targets, and negative profitability.  
+This project focuses on identifying the **root causes** behind the LATAM decline and providing **data-driven business recommendations** using analytical dashboards.
 
-This dashboard solves that problem by providing a single source of truth for cross-functional insights.
+The analysis evaluates sales, profitability, cost structure, and forecasting accuracy across regions and channels.
 
-### 🔍 Key Highlights
-- Interactive and user-friendly Power BI dashboards
-- Cross-functional analysis covering multiple business domains
-- KPI tracking using calculated measures and DAX
-- Data modeling with fact and dimension tables
-- Cleaned and validated data to ensure accurate insights
+---
 
-### 🛠 Tools & Technologies
-- Power BI
-- DAX
-- SQL
-- Excel
-- DAX Studio
-- Data Modeling & Visualization
+## 🎯 Business Problem
+Despite overall business growth in other regions, the LATAM market showed:
+- Declining sales performance
+- Missed revenue targets
+- Negative net profitability
 
-This repository contains the complete project files, dashboard screenshots, and documentation.
-### Live Dashboard
-<a href = "https://app.powerbi.com/view?r=eyJrIjoiZGI5YjI4MWQtYWFiYS00MjdiLTlkNjgtY2RlMTIxMjIzZTBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Click here to see Live Dashboard</a>
-## 🏠 Home View
+Leadership required clear insights to understand whether the issue was caused by:
+- Demand decline  
+- Pricing and discounting strategies  
+- Channel inefficiencies  
+- Cost structure challenges  
 
-The **Home View** acts as the central navigation hub of the *Business Insights 360* dashboard. It provides quick access to all major business views, allowing users to seamlessly explore insights across different functions.
+---
 
-### 🔹 Available Views
-- **Finance View**  
-  Analyze P&L statements by customer, product, country, and time period.
+## 🧠 Analytical Objective
+The objectives of this analysis were to:
+- Identify the key drivers of sales and profitability decline in LATAM  
+- Distinguish between **volume loss** and **margin erosion**  
+- Evaluate performance across regions, channels, products, and customers  
+- Provide actionable recommendations to improve market performance  
 
-- **Sales View**  
-  Evaluate customer performance using Net Sales, Gross Margin, and growth metrics with profitability analysis.
+---
 
-- **Marketing View**  
-  Track product-level performance and marketing effectiveness using key financial metrics.
+## 🔑 Key Metrics Analyzed
+- Net Sales (NS)
+- Gross Margin % (GM %)
+- Net Profit % (NP %)
+- Pre-invoice & Post-invoice Deductions
+- Cost of Goods Sold (COGS)
+- Forecast Accuracy %
+- Net Error
 
-- **Supply Chain View**  
-  Monitor Forecast Accuracy, Net Error, and risk profiles across products, segments, and customers.
+**Analytical Focus:**  
+Profitability metrics were prioritized over revenue to avoid misleading insights driven by discount-heavy sales.
 
-- **Executive View**  
-  A high-level summary dashboard designed for leadership, consolidating insights from all business domains.
+---
 
-### 🧭 Key Features
-- User-friendly navigation with button-based routing
-- Consistent UI design across all views
-- Centralized access to cross-functional analytics
-- Optimized for executive and business users
+## 🛠 Tools & Technologies
+- **Power BI** – Dashboard development, data modeling, DAX calculations  
+- **SQL** – Data extraction, transformations, and metric calculations  
+- **Excel** – Data validation and preprocessing  
 
-### 📸 Dashboard Screenshot
-<img width="1607" height="897" alt="image" src="https://github.com/user-attachments/assets/3770b783-43f1-47cf-b6aa-89d026dce91f" />
+---
 
+## 📈 Dashboard Views
+The project includes multiple business-focused views:
+- **Executive View** – High-level KPIs, benchmarks, and risk indicators  
+- **Finance View** – P&L breakdown, margin analysis, cost structure  
+- **Sales View** – Product and customer performance, revenue vs margin analysis  
+- **Marketing View** – Market-wise profitability comparison  
+- **Supply Chain View** – Forecast accuracy, net error, and operational risk  
 
-> *Note: All values are represented in USD (Millions).*
-> ## 💰 Finance View
+---
 
-The **Finance View** provides a detailed analysis of the business **Profit & Loss statement**, helping track financial performance across time, regions, and products.
+## 🔍 Key Insights
+- LATAM contributed a minimal share of total net sales but carried a disproportionately high profitability risk  
+- Aggressive discounting reduced gross margins without significantly improving sales volume  
+- Certain channels generated revenue but consistently underperformed on profitability  
+- Cost and operational inefficiencies further impacted net profit in the LATAM market  
 
-It highlights key metrics like **Net Sales, Gross Margin %, Net Profit %, COGS, and Operating Expenses**, along with trend analysis and benchmark comparisons (vs LY / vs Target).
+---
 
-Interactive filters allow users to drill down by **year, region, category, product, and customer** for quick financial insights.
+## 💡 Recommendations
+- Re-evaluate discounting strategies in low-margin LATAM channels  
+- Shift focus toward higher-margin channels and products  
+- Use margin-based KPIs instead of revenue-only metrics for performance evaluation  
+- Improve cost control and demand forecasting to reduce operational risk  
 
-<img width="1601" height="900" alt="image" src="https://github.com/user-attachments/assets/3e6d70d2-d252-4558-8c04-a6362fdb5f2a" />
+---
 
-## 📣 Marketing View
+## 📂 Dataset Information
+The dataset represents a simulated business environment inspired by real-world retail and e-commerce operations.  
+All insights are derived using structured analysis and reasonable business assumptions.
 
-The **Marketing View** analyzes market and regional performance using **Net Sales, Gross Margin %, and Net Profit %**.  
-It helps identify profitable and underperforming markets through comparative analysis and benchmark tracking.
+---
 
-<img width="1599" height="894" alt="image" src="https://github.com/user-attachments/assets/edfb8437-45b9-4f90-8d73-9d578f66ce55" />
+## 📌 Conclusion
+This project demonstrates how profitability-focused analysis can uncover issues that revenue-based reporting often hides.  
+By combining SQL-driven analysis with Power BI dashboards, the project supports data-driven decision-making and strategic planning.
 
-## 🛒 Sales View
+---
 
-The **Sales View** focuses on **product and customer performance**, highlighting Net Sales and Gross Margin trends.  
-It enables comparison across regions and helps identify high-performing and low-performing products and customers.
+## 🚀 Future Enhancements
+- Customer cohort and retention analysis  
+- Pricing and discount scenario modeling  
+- Advanced demand forecasting analysis  
 
-<img width="1621" height="900" alt="image" src="https://github.com/user-attachments/assets/b7d032f3-3772-4ef1-8a3c-cb054cbca1aa" />
+---
 
-## 🚚 Supply Chain View
-
-The **Supply Chain View** monitors operational efficiency using **Forecast Accuracy %, Net Error, and Absolute Error**.  
-It supports demand planning by tracking customer- and product-level risks and forecast deviations over time.
-
-<img width="1605" height="904" alt="image" src="https://github.com/user-attachments/assets/7feef696-1a7d-494c-84f2-3e0edfeb5209" />
-
-## 🧠 Executive View
-
-The **Executive View** provides a high-level snapshot of overall business performance.  
-It consolidates key KPIs from Finance, Sales, Marketing, and Supply Chain to support quick, strategic decision-making.
-
-<img width="1624" height="902" alt="image" src="https://github.com/user-attachments/assets/f5fa3320-c059-4c94-a343-e8c2554322f1" />
-
-## Data Model View
-<img width="861" height="725" alt="image" src="https://github.com/user-attachments/assets/ddcb0331-c6fd-4fa6-adeb-8db8dfc00bd9" />
-
-## 📘 Learnings
-- Designing dashboards with a business-first approach
-- Writing optimized DAX measures for KPIs
-- Building scalable data models
-- Validating data before visualization
-- Translating business requirements into insights
-## Sharing my LinkedIn profile below for feedback.
-<a href = "https://www.linkedin.com/in/keshavasharma27/"> Click here to see my Linkedin Profile. </a>
-
-
-
-
-
-
-
+## 👤 Author
+**Keshav Sharma**  
+📧 Email: sharmakeshav2237552@gmail.com  
+🔗 LinkedIn: *(add your LinkedIn link)*  
+💻 GitHub: *(this repository)*  
