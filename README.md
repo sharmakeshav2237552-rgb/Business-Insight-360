@@ -1,24 +1,27 @@
- # 📊 Channel & Profitability Analysis – LATAM Market (AtliQ)
+# 📊 Channel & Profitability Analysis – LATAM Market (AtliQ)
 
-## 🔗 Live Dashboard:
-<a href ="https://app.powerbi.com/view?r=eyJrIjoiZGI5YjI4MWQtYWFiYS00MjdiLTlkNjgtY2RlMTIxMjIzZTBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Click here to see Live Dashboard</a>
+🔗 **Live Dashboard (Power BI):**
+<a href ="https://app.powerbi.com/view?r=eyJrIjoiZGI5YjI4MWQtYWFiYS00MjdiLTlkNjgtY2RlMTIxMjIzZTBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Interactive Dashboard</a>
+
+---
 
 ## 📌 Project Overview
-AtliQ experienced a major performance setback in the Latin America (LATAM) market, with declining sales, missed targets, and negative profitability.  
-This project focuses on identifying the **root causes** behind the LATAM decline and providing **data-driven business recommendations** using analytical dashboards.
+AtliQ experienced a significant performance setback in the Latin America (LATAM) market, marked by declining sales, missed targets, and negative profitability.
 
-The analysis evaluates sales, profitability, cost structure, and forecasting accuracy across regions and channels.
+This project focuses on identifying the **root causes** behind the LATAM decline and delivering **data-driven business recommendations** using analytical dashboards.
+
+The analysis evaluates sales performance, profitability, cost structure, and forecasting accuracy across regions and channels.
 
 ---
 
 ## 🎯 Business Problem
-Despite overall business growth in other regions, the LATAM market showed:
-- Declining sales performance
-- Missed revenue targets
-- Negative net profitability
+Despite overall growth in other regions, the LATAM market showed:
+- Declining sales performance  
+- Consistent target misses  
+- Negative net profitability  
 
-Leadership required clear insights to understand whether the issue was caused by:
-- Demand decline  
+Leadership needed clarity on whether the decline was driven by:
+- Reduced demand  
 - Pricing and discounting strategies  
 - Channel inefficiencies  
 - Cost structure challenges  
@@ -35,16 +38,16 @@ The objectives of this analysis were to:
 ---
 
 ## 🔑 Key Metrics Analyzed
-- Net Sales (NS)
-- Gross Margin % (GM %)
-- Net Profit % (NP %)
-- Pre-invoice & Post-invoice Deductions
-- Cost of Goods Sold (COGS)
-- Forecast Accuracy %
-- Net Error
+- Net Sales (NS)  
+- Gross Margin % (GM %)  
+- Net Profit % (NP %)  
+- Pre-invoice & Post-invoice Deductions  
+- Cost of Goods Sold (COGS)  
+- Forecast Accuracy %  
+- Net Error  
 
 **Analytical Focus:**  
-Profitability metrics were prioritized over revenue to avoid misleading insights driven by discount-heavy sales.
+Profitability metrics were prioritized over revenue to avoid misleading conclusions driven by discount-heavy sales.
 
 ---
 
@@ -56,20 +59,21 @@ Profitability metrics were prioritized over revenue to avoid misleading insights
 ---
 
 ## 📈 Dashboard Views
-🔗 **Interactive Power BI Dashboard:**   <a href ="https://app.powerbi.com/view?r=eyJrIjoiZGI5YjI4MWQtYWFiYS00MjdiLTlkNjgtY2RlMTIxMjIzZTBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Live Dashboard</a>
+🔗 **Interactive Power BI Dashboard:**
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZGI5YjI4MWQtYWFiYS00MjdiLTlkNjgtY2RlMTIxMjIzZTBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Live Dashboard</a>
 
-The project includes multiple business-focused views:
+The analysis was structured across multiple business perspectives to isolate the root cause of LATAM underperformance:
 - **Executive View** – High-level KPIs, benchmarks, and risk indicators  
-- **Finance View** – P&L breakdown, margin analysis, cost structure  
-- **Sales View** – Product and customer performance, revenue vs margin analysis  
+- **Finance View** – P&L breakdown, margin analysis, and cost structure  
+- **Sales View** – Product and customer performance, revenue vs margin trade-offs  
 - **Marketing View** – Market-wise profitability comparison  
 - **Supply Chain View** – Forecast accuracy, net error, and operational risk  
 
 ---
 
 ## 🔍 Key Insights
-- LATAM contributed a minimal share of total net sales but carried a disproportionately high profitability risk  
-- Aggressive discounting reduced gross margins without significantly improving sales volume  
+- LATAM contributed a minimal share of total net sales but carried a **disproportionately high profitability risk**  
+- Aggressive discounting reduced gross margins without meaningfully improving sales volume  
 - Certain channels generated revenue but consistently underperformed on profitability  
 - Cost and operational inefficiencies further impacted net profit in the LATAM market  
 
@@ -85,12 +89,12 @@ The project includes multiple business-focused views:
 
 ## 📂 Dataset Information
 The dataset represents a simulated business environment inspired by real-world retail and e-commerce operations.  
-All insights are derived using structured analysis and reasonable business assumptions.
+All insights are derived through structured analysis and reasonable business assumptions.
 
 ---
 
 ## 📌 Conclusion
-This project demonstrates how profitability-focused analysis can uncover issues that revenue-based reporting often hides.  
+This project demonstrates how **profitability-focused analysis** can uncover issues that revenue-based reporting often hides.  
 By combining SQL-driven analysis with Power BI dashboards, the project supports data-driven decision-making and strategic planning.
 
 ---
@@ -99,7 +103,3 @@ By combining SQL-driven analysis with Power BI dashboards, the project supports 
 - Customer cohort and retention analysis  
 - Pricing and discount scenario modeling  
 - Advanced demand forecasting analysis  
-
----
-
-
