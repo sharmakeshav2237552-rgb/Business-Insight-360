@@ -100,8 +100,4 @@ By combining SQL-driven analysis with Power BI dashboards, the project supports 
 
 ---
 
-## 👤 Author
-**Keshav Sharma**  
-📧 Email: sharmakeshav2237552@gmail.com  
-🔗 LinkedIn: *(add your LinkedIn link)*  
-💻 GitHub: *(this repository)*  
+
