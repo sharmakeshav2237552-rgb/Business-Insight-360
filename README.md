@@ -1,7 +1,7 @@
 # 📊 Channel & Profitability Analysis – LATAM Market (AtliQ)
 
 🔗 **Live Dashboard:**
-< a href = "https://app.powerbi.com/view?r=eyJrIjoiZGI5YjI4MWQtYWFiYS00MjdiLTlkNjgtY2RlMTIxMjIzZTBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Click here to see Live Dashboard </a>
+< a href = "https://app.powerbi.com/view?r=eyJrIjoiZGI5YjI4MWQtYWFiYS00MjdiLTlkNjgtY2RlMTIxMjIzZTBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" > Click here to see Live Dashboard </a>
 
 ## 📌 Project Overview
 AtliQ experienced a major performance setback in the Latin America (LATAM) market, with declining sales, missed targets, and negative profitability.  
