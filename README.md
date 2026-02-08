@@ -56,6 +56,8 @@ Profitability metrics were prioritized over revenue to avoid misleading insights
 ---
 
 ## 📈 Dashboard Views
+🔗 **Interactive Power BI Dashboard:**   <a href ="https://app.powerbi.com/view?r=eyJrIjoiZGI5YjI4MWQtYWFiYS00MjdiLTlkNjgtY2RlMTIxMjIzZTBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Live Dashboard</a>
+
 The project includes multiple business-focused views:
 - **Executive View** – High-level KPIs, benchmarks, and risk indicators  
 - **Finance View** – P&L breakdown, margin analysis, cost structure  
